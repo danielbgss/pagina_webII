@@ -1,0 +1,49 @@
+.container-md {
+    text-align: center;
+    background-color: rgba(172, 172, 172, 0.452);
+    width: 100%;
+    border-radius: 10px;
+    padding-bottom: 0.4%;
+}
+
+#categoria {
+    border-right: 4px solid #333;
+    border-left: 4px solid #333;
+    margin-top: 1%;
+    
+    
+}
+
+#direito {
+    background-color: rgba(192, 192, 192, 0.74);
+    margin-top: 0.67%;
+}
+
+#texto_card {
+    font-size: 32px;
+}
+
+#titulo_card {
+    font-size: 60px;
+}
+
+#corpo_card {
+    padding-bottom: 5%;
+}
+
+#titulo {
+    font-weight: bold;;
+}
+
+#center_title {
+    font-size: 100px;
+}
+
+.card-img-top {
+    max-height: 600px;
+}
+
+.container {
+    padding-bottom: 2%;
+    text-align: center;
+}
